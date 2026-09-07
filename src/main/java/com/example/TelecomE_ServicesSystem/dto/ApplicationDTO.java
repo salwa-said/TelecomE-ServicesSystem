@@ -49,4 +49,3 @@ public class ApplicationDTO {
         return dtos;
     }
 }
-
